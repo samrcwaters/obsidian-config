@@ -1,0 +1,94 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-forward": [],
+  "app:go-back": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ]
+}
