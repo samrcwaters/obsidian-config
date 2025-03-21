@@ -90,5 +90,14 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
