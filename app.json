@@ -1,11 +1,5 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
   "vimMode": true,
   "showLineNumber": true,
-  "spellcheck": true,
-  "promptDelete": false,
-  "readableLineLength": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "alwaysUpdateLinks": true
 }

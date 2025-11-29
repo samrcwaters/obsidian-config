@@ -16,24 +16,6 @@
       "key": "P"
     }
   ],
-  "editor:focus-left": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "app:go-forward": [],
   "app:go-back": [],
   "editor:toggle-checklist-status": [
@@ -52,15 +34,6 @@
         "Mod"
       ],
       "key": "H"
-    }
-  ],
-  "editor:fold-less": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl"
-      ],
-      "key": "J"
     }
   ],
   "editor:fold-more": [
@@ -90,5 +63,149 @@
       ],
       "key": "J"
     }
-  ]
+  ],
+  "obsidian-completr:completr-insert-selected-suggestion": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-kanban:toggle-kanban-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-completr:completr-select-next-suggestion": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-completr:completr-select-previous-suggestion": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-completr:completr-blacklist-current-word": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "workspace:close": []
 }

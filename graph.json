@@ -1,22 +1,44 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "path: Journal",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag: #identity  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Journal/Quest Logs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14993552
+      }
+    },
+    {
+      "query": "tag: #thoughts",
+      "color": {
+        "a": 1,
+        "rgb": 9462995
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.54931091994382,
-  "lineSizeMultiplier": 5,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 190,
-  "scale": 1.5660723670245975,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.6245208591465777,
+  "close": false
 }

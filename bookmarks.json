@@ -1,0 +1,360 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1720127159445,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1720127139144,
+          "title": "Potion Seller",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"Software Engineering/Projects/Potion Seller\"  ",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": false,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "tag:#index",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              },
+              {
+                "query": "tag:#location",
+                "color": {
+                  "a": 1,
+                  "rgb": 14069084
+                }
+              },
+              {
+                "query": "tag:#faction",
+                "color": {
+                  "a": 1,
+                  "rgb": 11392604
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1.3,
+            "nodeSizeMultiplier": 1.17679336188437,
+            "lineSizeMultiplier": 1.81071556031406,
+            "collapse-forces": false,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 190,
+            "scale": 0.35823127139814764,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1720128748426,
+          "title": "74-1433",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:\"Software Engineering/Projects/Potion Seller\"  ",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "tag:#index",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              },
+              {
+                "query": "tag:#location",
+                "color": {
+                  "a": 1,
+                  "rgb": 14069084
+                }
+              },
+              {
+                "query": "tag:#faction",
+                "color": {
+                  "a": 1,
+                  "rgb": 3779712
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": -1.3,
+            "nodeSizeMultiplier": 1.17679336188437,
+            "lineSizeMultiplier": 1.81071556031406,
+            "collapse-forces": false,
+            "centerStrength": 0.332657021877205,
+            "repelStrength": 7.8757939308398,
+            "linkStrength": 0.408256880733945,
+            "linkDistance": 149,
+            "scale": 0.4092917458601366,
+            "close": false
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1756558224244,
+          "title": "Factions and Locations",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"Software Engineering/Projects/Potion Seller\"  ",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": false,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "tag:#index",
+                "color": {
+                  "a": 1,
+                  "rgb": 14048348
+                }
+              },
+              {
+                "query": "tag:#location",
+                "color": {
+                  "a": 1,
+                  "rgb": 14069084
+                }
+              },
+              {
+                "query": "tag:#faction",
+                "color": {
+                  "a": 1,
+                  "rgb": 11392604
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1.3,
+            "nodeSizeMultiplier": 1.17679336188437,
+            "lineSizeMultiplier": 1.81071556031406,
+            "collapse-forces": false,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 190,
+            "scale": 0.6245208591465773,
+            "close": false
+          }
+        }
+      ],
+      "title": "Potion Seller"
+    },
+    {
+      "type": "group",
+      "ctime": 1720127172848,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1720126563578,
+          "title": "SWE Graph 2024-07-04",
+          "options": {
+            "collapse-filter": true,
+            "search": "path:\"Software Engineering\"  ",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": false,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "tag:#dsa  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "tag:#databases ",
+                "color": {
+                  "a": 1,
+                  "rgb": 3430573
+                }
+              },
+              {
+                "query": "tag:#os  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 16675897
+                }
+              },
+              {
+                "query": "tag:#swe  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 12071873
+                }
+              },
+              {
+                "query": "tag:#projects",
+                "color": {
+                  "a": 1,
+                  "rgb": 5431473
+                }
+              },
+              {
+                "query": "tag:#gis",
+                "color": {
+                  "a": 1,
+                  "rgb": 1337347
+                }
+              },
+              {
+                "query": "tag:#ai  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 13020906
+                }
+              },
+              {
+                "query": "tag:#python",
+                "color": {
+                  "a": 1,
+                  "rgb": 14996257
+                }
+              },
+              {
+                "query": "tag:#design-patterns  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701233
+                }
+              },
+              {
+                "query": "tag:#utils",
+                "color": {
+                  "a": 1,
+                  "rgb": 16762880
+                }
+              },
+              {
+                "query": "tag:#career",
+                "color": {
+                  "a": 1,
+                  "rgb": 6490120
+                }
+              },
+              {
+                "query": "tag:#devops  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 16689250
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1.3,
+            "nodeSizeMultiplier": 1.17679336188437,
+            "lineSizeMultiplier": 1.81071556031406,
+            "collapse-forces": false,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 190,
+            "scale": 0.35823127139814764,
+            "close": false
+          }
+        }
+      ],
+      "title": "Software Engineering"
+    },
+    {
+      "type": "group",
+      "ctime": 1756558335717,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1756559104702,
+          "title": "latest",
+          "options": {
+            "collapse-filter": true,
+            "search": "path: Journal",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": false,
+            "colorGroups": [
+              {
+                "query": "tag: #identity  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "path:\"Journal/Quest Logs\"  ",
+                "color": {
+                  "a": 1,
+                  "rgb": 14993552
+                }
+              },
+              {
+                "query": "tag: #thoughts",
+                "color": {
+                  "a": 1,
+                  "rgb": 9462995
+                }
+              }
+            ],
+            "collapse-display": false,
+            "showArrow": false,
+            "textFadeMultiplier": -1.7,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": false,
+            "centerStrength": 0.518713248970312,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 250,
+            "scale": 0.6245208591465773,
+            "close": false
+          }
+        }
+      ],
+      "title": "Self"
+    },
+    {
+      "type": "graph",
+      "ctime": 1757137208159,
+      "title": "All",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": false,
+        "colorGroups": [],
+        "collapse-display": false,
+        "showArrow": false,
+        "textFadeMultiplier": -2.2,
+        "nodeSizeMultiplier": 1.17679336188437,
+        "lineSizeMultiplier": 1.81071556031406,
+        "collapse-forces": false,
+        "centerStrength": 0.32952182952183,
+        "repelStrength": 10.7484407484407,
+        "linkStrength": 1,
+        "linkDistance": 190,
+        "scale": 0.1616501399617129,
+        "close": false
+      }
+    }
+  ]
+}
