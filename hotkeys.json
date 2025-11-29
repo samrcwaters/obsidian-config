@@ -64,26 +64,10 @@
       "key": "J"
     }
   ],
-  "obsidian-completr:completr-insert-selected-suggestion": [
+  "templater-obsidian:insert-templater": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "obsidian-kanban:toggle-kanban-view": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "3"
-    }
-  ],
-  "file-explorer:new-file": [
-    {
-      "modifiers": [
+        "Ctrl",
         "Mod"
       ],
       "key": "N"
