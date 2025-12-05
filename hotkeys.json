@@ -11,9 +11,10 @@
   "switcher:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "P"
+      "key": "O"
     }
   ],
   "app:go-forward": [],
@@ -49,7 +50,7 @@
     {
       "modifiers": [
         "Alt",
-        "Ctrl"
+        "Mod"
       ],
       "key": "M"
     }
@@ -70,15 +71,14 @@
         "Ctrl",
         "Mod"
       ],
-      "key": "N"
+      "key": " "
     }
   ],
   "editor:delete-paragraph": [],
   "obsidian-completr:completr-select-next-suggestion": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Ctrl"
       ],
       "key": "N"
     }
@@ -86,8 +86,7 @@
   "obsidian-completr:completr-select-previous-suggestion": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Ctrl"
       ],
       "key": "P"
     }
@@ -122,12 +121,6 @@
   "workspace:next-tab": [
     {
       "modifiers": [
-        "Ctrl"
-      ],
-      "key": "PageDown"
-    },
-    {
-      "modifiers": [
         "Mod",
         "Shift"
       ],
@@ -135,12 +128,6 @@
     }
   ],
   "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "PageUp"
-    },
     {
       "modifiers": [
         "Mod",
@@ -178,7 +165,9 @@
   "editor:focus-right": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Mod",
+        "Shift"
       ],
       "key": "L"
     }
@@ -191,5 +180,79 @@
       "key": "H"
     }
   ],
-  "workspace:close": []
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-completr:completr-fake-enter": [],
+  "obsidian-completr:completr-jump-to-next-snippet-placeholder": [],
+  "obsidian-completr:completr-insert-selected-suggestion": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [],
+  "obsidian-completr:completr-bypass-enter-key": [],
+  "editor:open-link-in-new-split": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ]
 }
